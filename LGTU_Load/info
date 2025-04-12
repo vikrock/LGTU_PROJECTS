@@ -4,7 +4,7 @@
   "name": "LGTU_Load",
   "content": "Электронная нагрузка для лаборатории ЭП",
   "created_at": "2025-03-18 09:25:19",
-  "updated_at": "2025-04-12 15:51:37",
+  "updated_at": "2025-04-12 16:09:21",
   "stick": "",
   "documents": [
     {
@@ -254,11 +254,11 @@
           }
         ]
       ],
-      "updateTime": 1744462297,
+      "updateTime": 1744463361,
       "createTime": 1742279120,
       "histories": [],
       "created_at": "2025-03-18 09:25:20",
-      "updated_at": "2025-04-12 15:51:37"
+      "updated_at": "2025-04-12 16:09:21"
     },
     {
       "uuid": "f9d1e8579942afc3f7894cdd38387b70",
@@ -519,5 +519,5 @@
   "title": "LGTU_Load",
   "foldername": "LGTU_Load",
   "schfilename": "LGTU_Load.json",
-  "schfilemtime": 1744462297868
+  "schfilemtime": 1744463361315
 }
