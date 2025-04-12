@@ -4,7 +4,7 @@
   "name": "LGTU_Load",
   "content": "Электронная нагрузка для лаборатории ЭП",
   "created_at": "2025-03-18 09:25:19",
-  "updated_at": "2025-04-12 11:17:08",
+  "updated_at": "2025-04-12 15:51:37",
   "stick": "",
   "documents": [
     {
@@ -27,7 +27,7 @@
         "6660b815125f467cbf8f57c3b9cde6dd": 1,
         "d60a4619784a40a6b1a6e7bba698e9fa": 1,
         "f97e5afdeab04bd58194d562f99b7853": 1,
-        "a5ea3277ead265ddd984ca0218be5b4f": 10
+        "a5ea3277ead265ddd984ca0218be5b4f": 11
       },
       "BOM": [
         [
@@ -171,9 +171,9 @@
         ],
         [
           "10k",
-          1,
+          2,
           "RES-TH_BD2.2-L6.5-P10.50-D0.6",
-          "R10",
+          "R10,R11",
           {
             "Manufacturer Part": "MFR0W4F2002A50",
             "Manufacturer": "UNI-ROYAL(厚声)",
@@ -254,11 +254,11 @@
           }
         ]
       ],
-      "updateTime": 1744445739,
+      "updateTime": 1744462297,
       "createTime": 1742279120,
       "histories": [],
       "created_at": "2025-03-18 09:25:20",
-      "updated_at": "2025-04-12 11:15:39"
+      "updated_at": "2025-04-12 15:51:37"
     },
     {
       "uuid": "f9d1e8579942afc3f7894cdd38387b70",
@@ -508,16 +508,16 @@
           }
         ]
       ],
-      "updateTime": 1744445828,
+      "updateTime": 1744447018,
       "createTime": 1744445828,
       "histories": [],
       "created_at": "2025-04-12 11:17:08",
-      "updated_at": "2025-04-12 11:17:08"
+      "updated_at": "2025-04-12 11:36:58"
     }
   ],
   "sort": [],
   "title": "LGTU_Load",
   "foldername": "LGTU_Load",
   "schfilename": "LGTU_Load.json",
-  "schfilemtime": 1744445739471
+  "schfilemtime": 1744462297868
 }
