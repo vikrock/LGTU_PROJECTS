@@ -4,7 +4,7 @@
   "name": "LGTU_Load",
   "content": "Электронная нагрузка для лаборатории ЭП",
   "created_at": "2025-03-18 09:25:19",
-  "updated_at": "2025-04-12 16:09:21",
+  "updated_at": "2025-04-12 19:59:23",
   "stick": "",
   "documents": [
     {
@@ -27,7 +27,7 @@
         "6660b815125f467cbf8f57c3b9cde6dd": 1,
         "d60a4619784a40a6b1a6e7bba698e9fa": 1,
         "f97e5afdeab04bd58194d562f99b7853": 1,
-        "a5ea3277ead265ddd984ca0218be5b4f": 11
+        "a5ea3277ead265ddd984ca0218be5b4f": 13
       },
       "BOM": [
         [
@@ -182,6 +182,30 @@
           }
         ],
         [
+          "3k",
+          1,
+          "RES-TH_BD2.2-L6.5-P10.50-D0.6",
+          "R12",
+          {
+            "Manufacturer Part": "MFR0W4F2002A50",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C58594"
+          }
+        ],
+        [
+          "12k",
+          1,
+          "RES-TH_BD2.2-L6.5-P10.50-D0.6",
+          "R13",
+          {
+            "Manufacturer Part": "MFR0W4F2002A50",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C58594"
+          }
+        ],
+        [
           "10mΩ",
           1,
           "RES-TH_L22.5-W2.5-P20.00-D2.5",
@@ -254,11 +278,11 @@
           }
         ]
       ],
-      "updateTime": 1744463361,
+      "updateTime": 1744477163,
       "createTime": 1742279120,
       "histories": [],
       "created_at": "2025-03-18 09:25:20",
-      "updated_at": "2025-04-12 16:09:21"
+      "updated_at": "2025-04-12 19:59:23"
     },
     {
       "uuid": "f9d1e8579942afc3f7894cdd38387b70",
@@ -519,5 +543,5 @@
   "title": "LGTU_Load",
   "foldername": "LGTU_Load",
   "schfilename": "LGTU_Load.json",
-  "schfilemtime": 1744463361315
+  "schfilemtime": 1744477163939
 }
