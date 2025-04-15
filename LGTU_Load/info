@@ -4,7 +4,7 @@
   "name": "LGTU_Load",
   "content": "Электронная нагрузка для лаборатории ЭП",
   "created_at": "2025-03-18 09:25:19",
-  "updated_at": "2025-04-12 19:59:23",
+  "updated_at": "2025-04-15 08:56:29",
   "stick": "",
   "documents": [
     {
@@ -21,13 +21,13 @@
         "ed1f09dcd8264d91ac77413cf72115f3": 2,
         "a4b1a4817c07451a8f3d6e245e2eabff": 5,
         "9d338c866285439d8280246bfae179ac": 1,
-        "6cc6c1a1ea79455c909666c6976df39e": 1,
-        "9b00e55457cc4650a4674a409695290e": 1,
         "224655f066c64e248a2df6932eb246a7": 1,
         "6660b815125f467cbf8f57c3b9cde6dd": 1,
         "d60a4619784a40a6b1a6e7bba698e9fa": 1,
         "f97e5afdeab04bd58194d562f99b7853": 1,
-        "a5ea3277ead265ddd984ca0218be5b4f": 13
+        "a5ea3277ead265ddd984ca0218be5b4f": 13,
+        "da7b453c460b4928a5d51e9d84b962fa": 1,
+        "f255cbbd2bb2440595677faa170d9bc2": 1
       },
       "BOM": [
         [
@@ -62,27 +62,27 @@
           }
         ],
         [
-          "GM-ENCODER-EC11",
+          "PZ254V-11-04P_C2691448",
           1,
-          "GM-ENCODER-EC11",
-          "EN1",
+          "HDR-TH_4P-P2.54-V-M",
+          "H1",
           {
-            "Manufacturer Part": "",
-            "Manufacturer": "",
-            "Supplier": "",
-            "Supplier Part": ""
+            "Manufacturer Part": "PZ254V-11-04P",
+            "Manufacturer": "XFCN(兴飞)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2691448"
           }
         ],
         [
-          "SSD1306-128X64-OLED-0.96 COPY_MY",
+          "PZ254V-11-05P",
           1,
-          "SSD1306",
-          "PCB1",
+          "HDR-TH_5P-P2.54-V-M",
+          "H2",
           {
-            "Manufacturer Part": "",
-            "Manufacturer": "",
-            "Supplier": "",
-            "Supplier Part": ""
+            "Manufacturer Part": "PZ254V-11-05P",
+            "Manufacturer": "XFCN(兴飞)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C492404"
           }
         ],
         [
@@ -278,11 +278,11 @@
           }
         ]
       ],
-      "updateTime": 1744477163,
+      "updateTime": 1744696563,
       "createTime": 1742279120,
       "histories": [],
       "created_at": "2025-03-18 09:25:20",
-      "updated_at": "2025-04-12 19:59:23"
+      "updated_at": "2025-04-15 08:56:03"
     },
     {
       "uuid": "f9d1e8579942afc3f7894cdd38387b70",
@@ -294,13 +294,13 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
+        "89f5280378144b629de4998ef974b6b8": 1,
+        "97560a62b45c46d5b6e85aaea1cd55a1": 1,
         "7f13db674f444250829daeae7231eaf7": 2,
         "9a299d39a63849efb461b57d8af06193": 1,
-        "30a76c4d64384d45a842b3eb0acf15a2": 1,
-        "1afb22295a1e439bae307f047c0930a8": 1,
         "1886ded2f883470f93e22af8426937bb": 2,
         "948e610cffd14df79f04c73832b1409b": 1,
-        "666264fd42b84465ad050a9517cab8cf": 10,
+        "666264fd42b84465ad050a9517cab8cf": 13,
         "57f51869e5e1445a99908a29fe7d0ffd": 1,
         "fc09b95eae7f4ef6b1348364bd7db836": 1,
         "396a934badee48e193ced7adf26cb768": 5,
@@ -532,16 +532,16 @@
           }
         ]
       ],
-      "updateTime": 1744447018,
+      "updateTime": 1744696589,
       "createTime": 1744445828,
       "histories": [],
       "created_at": "2025-04-12 11:17:08",
-      "updated_at": "2025-04-12 11:36:58"
+      "updated_at": "2025-04-15 08:56:29"
     }
   ],
   "sort": [],
   "title": "LGTU_Load",
   "foldername": "LGTU_Load",
   "schfilename": "LGTU_Load.json",
-  "schfilemtime": 1744477163939
+  "schfilemtime": 1744696563505
 }
