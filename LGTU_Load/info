@@ -4,7 +4,7 @@
   "name": "LGTU_Load",
   "content": "Электронная нагрузка для лаборатории ЭП",
   "created_at": "2025-03-18 09:25:19",
-  "updated_at": "2025-04-16 09:16:38",
+  "updated_at": "2025-04-16 11:48:55",
   "stick": "",
   "documents": [
     {
@@ -21,13 +21,14 @@
         "ed1f09dcd8264d91ac77413cf72115f3": 2,
         "a4b1a4817c07451a8f3d6e245e2eabff": 5,
         "9d338c866285439d8280246bfae179ac": 1,
-        "224655f066c64e248a2df6932eb246a7": 1,
         "6660b815125f467cbf8f57c3b9cde6dd": 1,
         "d60a4619784a40a6b1a6e7bba698e9fa": 1,
         "f97e5afdeab04bd58194d562f99b7853": 1,
         "a5ea3277ead265ddd984ca0218be5b4f": 13,
         "da7b453c460b4928a5d51e9d84b962fa": 1,
-        "f255cbbd2bb2440595677faa170d9bc2": 1
+        "f255cbbd2bb2440595677faa170d9bc2": 1,
+        "c51a22f281c54332a93b9cc2d69d3337": 1,
+        "9393c24c618b4b62920fa0098e138952": 1
       },
       "BOM": [
         [
@@ -83,6 +84,18 @@
             "Manufacturer": "XFCN(兴飞)",
             "Supplier": "LCSC",
             "Supplier Part": "C492404"
+          }
+        ],
+        [
+          "PZ254V-11-03P",
+          1,
+          "HDR-TH_3P-P2.54-V-M",
+          "H4",
+          {
+            "Manufacturer Part": "PZ254V-11-03P",
+            "Manufacturer": "XFCN(兴飞)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C492402"
           }
         ],
         [
@@ -266,10 +279,10 @@
           }
         ],
         [
-          "STM32G030F6P6 module",
+          "STM32G031F6P6",
           1,
-          "STM32G030 F6P6 MODULE",
-          "U5",
+          "STM32G030 F6P6 WEACT",
+          "U9",
           {
             "Manufacturer Part": "",
             "Manufacturer": "",
@@ -278,16 +291,16 @@
           }
         ]
       ],
-      "updateTime": 1744696563,
+      "updateTime": 1744793335,
       "createTime": 1742279120,
       "histories": [],
       "created_at": "2025-03-18 09:25:20",
-      "updated_at": "2025-04-15 08:56:03"
+      "updated_at": "2025-04-16 11:48:55"
     }
   ],
   "sort": [],
   "title": "LGTU_Load",
   "foldername": "LGTU_Load",
   "schfilename": "LGTU_Load.json",
-  "schfilemtime": 1744696563505
+  "schfilemtime": 1744793335532
 }
